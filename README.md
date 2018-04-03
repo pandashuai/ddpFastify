@@ -9,9 +9,13 @@
 
 在dp-config/index.js按照提示填写所需参数，其中mongoDB配置必填
 
+```
 
-> npm install
-> npm run dev
+npm install
+
+npm run dev
+
+```
 
 注： 可以配合[ddpAdmin](https://github.com/pandashuai/ddpAdmin)后台使用
 
