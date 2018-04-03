@@ -11,7 +11,6 @@
 
 
 > npm install
-
 > npm run dev
 
 注： 可以配合[ddpAdmin](https://github.com/pandashuai/ddpAdmin)后台使用
